@@ -22,4 +22,4 @@ plot(x=X[1,:], y=X[2,:], Geom.hexbin, Scale.continuous_color(colormap=Viridis.ma
 plot(x=X[1,:], y=X[2,:], Geom.hexbin, Scale.continuous_color(colormap=Viridis.viridis))
 ~~~
 
-![viridis.png](viridis)
+![viridis](viridis.png)
