@@ -19,4 +19,8 @@ The Viridis.jl package is licensed under the MIT "Expat" License:
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
-> 
+>
+
+Data by Nathaniel J. Smith, Stefan van Der Walt and Eric Firing
+Released under CC-0
+Origin: https://github.com/BIDS/colormap/blob/master/colormaps.py
